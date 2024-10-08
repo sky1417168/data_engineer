@@ -1,0 +1,23 @@
+{
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
+  "blue-topaz-theme@@toggle-bg-panel-page": false,
+  "blue-topaz-theme@@left-ribbon-style": "default-left-ribbon-style",
+  "blue-topaz-theme@@search-bar-style-option": "bt-search-bar-bottom",
+  "blue-topaz-theme@@bt-status-on": true,
+  "blue-topaz-theme@@scrollbar-style-option": "default-scrollbar",
+  "blue-topaz-theme@@layout-style-options": "layout-style-options-default",
+  "blue-topaz-theme@@tab-title-bar-position": false,
+  "blue-topaz-theme@@toggle-header-bottom-line": false,
+  "blue-topaz-theme@@view-button-front": false,
+  "blue-topaz-theme@@file-name-style-option": "file-name-non-wrapped",
+  "blue-topaz-theme@@dark-background-file": false,
+  "blue-topaz-theme@@remove-file-icons": false,
+  "blue-topaz-theme@@folder-icons": true,
+  "blue-topaz-theme@@remove-first-folder-icon": true,
+  "blue-topaz-theme@@folder-note-underline": false,
+  "blue-topaz-theme@@folder-note-dot": false,
+  "blue-topaz-theme@@folder-style-change-options-colorful": "folder-style-change-options-colorful-border",
+  "blue-topaz-theme@@folder-style-change-options-colorful-subfolder": "folder-colorful-four",
+  "blue-topaz-theme@@folder-colorful-custom-color@@light": "#13D1A1",
+  "blue-topaz-theme@@bt-toggle-colorful-folder": true
+}
